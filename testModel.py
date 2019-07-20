@@ -44,7 +44,7 @@ def save_id2(ID):
 #PART 1: Using pre-defined principles to select an account to follow based on
 #mutual interests, no. of friends, activity on twitter etc
 #(CHECK FILE data_scraping.ipynb FOR MORE DETAILS ON CODE BETWEEN LINE. NO
-#38 AND 73)
+#49 AND 84)
 
 interests = ['machine', 'learning', 'computer', 'science', 'programming', 'AI', 
              'artificial', 'intelligence', 'deep', 'nlp', 'processing', 'data', 
